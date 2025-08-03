@@ -1,5 +1,6 @@
 import os
 
+# the secrets are specifically stored in replit so may be different for other editors such as vscode
 normU = my_secret = os.environ['normal_user']
 normP = os.environ['Normal_pass']
 
